@@ -1,4 +1,7 @@
-# api documentation for  [connect-gzip-static (v2.0.1)](https://github.com/pirxpilot/connect-gzip-static#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-connect-gzip-static.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-connect-gzip-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect-gzip-static.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect-gzip-static)
+# npmdoc-connect-gzip-static
+
+#### basic api documentation for  [connect-gzip-static (v2.0.1)](https://github.com/pirxpilot/connect-gzip-static#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-connect-gzip-static.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-connect-gzip-static) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-connect-gzip-static.svg)](https://travis-ci.org/npmdoc/node-npmdoc-connect-gzip-static)
+
 #### gzip/brotli static middleware for connect - serves compressed files if they exist, falls through to connect-static if they don't
 
 [![NPM](https://nodei.co/npm/connect-gzip-static.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/connect-gzip-static)
@@ -72,7 +75,8 @@
     "scripts": {
         "test": "make lint test"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
